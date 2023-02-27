@@ -1,0 +1,7 @@
+body{
+animation:colorchange3D  0.65s infinite;  
+
+@keyframes colorchange3D{
+    from{color:3px 3px 20px rgb(0, 166, 255)}
+    to{color:3px 3px 20px rgb(162, 0, 255)}   
+    }}
